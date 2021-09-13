@@ -8,3 +8,4 @@ python-socketio==5.4.0
 psycopg2-binary
 dj-database-url
 django-cors-headers
+django-url-filter==0.3.15
